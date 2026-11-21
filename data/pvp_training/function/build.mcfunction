@@ -19,8 +19,8 @@ setblock 21 64 21 sea_lantern
 # BEACON SPAWN CENTER
 fill -5 63 -5 5 63 5 quartz_bricks
 fill -3 64 -3 3 64 3 cyan_concrete
-fill -2 65 -2 2 65 2 sea_lantern
-setblock 0 66 0 beacon
+fill -2 65 -2 2 66 2 air
+setblock 0 67 0 beacon
 setblock 0 64 0 sea_lantern
 
 # FOUR ILLUMINATED APPROACH PATHS
@@ -80,16 +80,14 @@ fill 74 73 -27 126 73 -27 sea_lantern
 fill 74 73 27 126 73 27 sea_lantern
 
 # FLOOR GRID AND CENTER MARK
-fill 99 64 -23 101 64 23 light_gray_concrete
-fill 77 64 -1 123 64 1 light_gray_concrete
-fill 98 64 -2 102 64 2 cyan_concrete
-setblock 100 65 0 sea_lantern
+fill 99 63 -23 101 63 23 light_gray_concrete
+fill 77 63 -1 123 63 1 light_gray_concrete
+fill 98 63 -2 102 63 2 cyan_concrete
+setblock 100 63 0 sea_lantern
 
 # RED AND BLUE START PADS
-fill 80 64 -5 86 64 5 red_concrete
-fill 114 64 -5 120 64 5 blue_concrete
-fill 81 65 -4 85 65 4 red_stained_glass
-fill 115 65 -4 119 65 4 blue_stained_glass
+fill 80 63 -5 86 63 5 red_concrete
+fill 114 63 -5 120 63 5 blue_concrete
 
 # CORNER PILLARS AND LIGHTS
 fill 77 64 -24 79 69 -22 polished_deepslate
