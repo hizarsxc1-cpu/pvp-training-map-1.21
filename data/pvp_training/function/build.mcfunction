@@ -117,7 +117,9 @@ fill 145 69 -24 147 69 -22 spruce_leaves
 setblock 146 70 -23 spruce_leaves
 fill 145 65 -24 147 65 -22 spruce_leaves
 # Clear air above the whole build to ensure a playable flat arena
-fill 65 64 -35 135 90 35 air
+fill 65 64 -35 88 80 35 air
+fill 89 64 -35 112 80 35 air
+fill 113 64 -35 135 80 35 air
 # Spawn marker at the center; no obstacle in the fighting space
 setblock 100 63 0 sea_lantern
 setblock 100 64 0 air
