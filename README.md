@@ -1,6 +1,6 @@
 # PvP Training Map — Minecraft Java 1.21.0
 
-An original PvP practice datapack for Minecraft Java 1.21.0. It builds a compact training lobby and a glass-walled arena in the current world.
+An original PvP practice datapack for Minecraft Java 1.21.0. It builds a decorated spawn plaza with a beacon centerpiece, illuminated paths, corner pillars and planters, plus a larger glass-walled PvP arena with red/blue start pads, floor markings, corner lights and spectator ledges.
 
 ## Current status
 
