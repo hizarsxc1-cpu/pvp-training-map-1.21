@@ -36,6 +36,7 @@ If the pack does not appear, check that the folder is not nested twice (for exam
 | `/function pvp_training:kit_crystal` | Gives the crystal practice kit |
 | `/function pvp_training:go_arena` | Teleports you to the arena |
 | `/function pvp_training:go_lobby` | Teleports you to the lobby |
+| `/function pvp_training:menu` | Shows a clickable practice menu |
 
 ## Notes
 
